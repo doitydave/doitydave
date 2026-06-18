@@ -1,16 +1,21 @@
-## Hi there 👋
+# David Clay
 
-<!--
-**doitydave/doitydave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught technologist focused on IT, Linux, networking, and cybersecurity. I learn by building — I'd rather stand something up, break it, and fix it than just read about it.
 
-Here are some ideas to get you started:
+- **Currently:** pursuing CompTIA Security+ (SY0-701)
+- **Goal:** a role in IT support, security operations, or offensive security
+- **Location:** Indianapolis, IN
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+- **Operating systems:** Linux (Fedora), Windows — administration, recovery, tuning
+- **Networking:** router/firewall configuration, DNS/DHCP, Pi-hole, Unbound (DNSSEC)
+- **Security:** wireless network security testing (aircrack-ng), malware removal, system hardening
+- **Languages & tools:** Python, Bash, Git, Ollama / local LLMs
+
+## Projects
+- **Local AI Application** — a private, offline AI assistant: a local LLM via Ollama with retrieval-augmented generation (RAG), embeddings, semantic search, and a Flask web interface.
+- **Home Network & DNS Filtering** — ISP gateway in bridge mode, a dedicated router, and a Raspberry Pi running Pi-hole with an Unbound recursive, DNSSEC-validating resolver for network-wide filtering.
+- **Linux Administration & Tuning** — Fedora workstation: systemd services, CPU undervolting and performance tuning, and scripted configuration.
+
+## Contact
+- Email: dxclay4@gmail.com
